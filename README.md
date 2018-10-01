@@ -98,5 +98,5 @@ Git introduction workshop held to introduce students to Open Source
 - CSE 1st Year
 
 ### Sakshi Verma
-- BBA.LLB 3rd Year
+- BBA.LLB 3rd Year  
 
